@@ -1,0 +1,37 @@
+html,body{
+    overflow-x: hidden;
+}
+
+
+.playground{
+    background-color: #34353EFF;
+    min-height: 69rem;
+}
+
+.text h1{
+    color: #44C496FF;
+    font-size: 5rem;
+    margin-top: 15%;
+    padding-bottom: 10%;
+}
+
+h3{
+    color: #44C496FF;
+}
+
+h5{
+    color: #44C496FF;
+}
+.btn{
+    width: 50%;
+    margin: 2rem auto;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    border-radius: 15px;
+    background-color: #44C496FF;
+}
+
+.fa-handshake, .fa-flag{
+    transition: all ease 1s;
+    color: whitesmoke;
+}
